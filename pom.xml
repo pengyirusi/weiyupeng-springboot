@@ -9,6 +9,7 @@
         <version>2.6.0</version>
         <artifactId>spring-boot-starter-parent</artifactId>
     </parent>
+    <packaging>pom</packaging>
 
     <groupId>cn.weiyupeng</groupId>
     <artifactId>weiyupeng-springboot</artifactId>

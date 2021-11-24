@@ -8,6 +8,7 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <packaging>pom</packaging>
 
     <artifactId>demo01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
